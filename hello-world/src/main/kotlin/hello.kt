@@ -5,6 +5,8 @@ fun main(args : Array<String>) {
     //Criar uma variavel em Kotlin
     val primeiraVariavel: String = "Oi, a primeira variável deu boa"
 
+    val primeiraVariavelNullSafety: String?
+
     println(primeiraVariavel)
 
     //Variavel do tipo numero
